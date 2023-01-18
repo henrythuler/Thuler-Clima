@@ -42,7 +42,7 @@
 <br>
 <br>
 <p>- Current Temperature</p>
-<p>- Minimun and Maximun Temperature</p>
+<p>- Minimum and Maximum Temperature</p>
 <p>- Thermal sensation</p>
 <p>- Wind speed</p>
 <p>- Wind angle</p>
